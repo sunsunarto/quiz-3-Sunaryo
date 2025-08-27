@@ -15,7 +15,9 @@ export default function Home() {
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="tracking-[-.01em]">
             <code>npm run dev</code> to start the development server
-
+          </li>
+          <li className="tracking-[-.01em]">
+            grid quiz layout
           </li>
         </ol>
 
